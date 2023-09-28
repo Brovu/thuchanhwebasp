@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web-ThucHanh", "Web-ThucHanh\Web-ThucHanh.csproj", "{1FA65F87-9827-44FE-82E9-81FF5D9E1C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBClass", "DBClass\DBClass.csproj", "{AE4F15B3-DCE8-4385-ACA8-4F0381A05DDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA65F87-9827-44FE-82E9-81FF5D9E1C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA65F87-9827-44FE-82E9-81FF5D9E1C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA65F87-9827-44FE-82E9-81FF5D9E1C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA65F87-9827-44FE-82E9-81FF5D9E1C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4F15B3-DCE8-4385-ACA8-4F0381A05DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4F15B3-DCE8-4385-ACA8-4F0381A05DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4F15B3-DCE8-4385-ACA8-4F0381A05DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4F15B3-DCE8-4385-ACA8-4F0381A05DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FF31A8-E968-4798-8266-7A2F988F8FBA}
+	EndGlobalSection
+EndGlobal

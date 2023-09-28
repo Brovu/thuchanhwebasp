@@ -1,0 +1,12 @@
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\DBClass.dll.config
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\DBClass.dll
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\DBClass.pdb
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\EntityFramework.dll
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\EntityFramework.xml
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\obj\Debug\DBClass.csproj.AssemblyReference.cache
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\obj\Debug\DBClass.csproj.CoreCompileInputs.cache
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\obj\Debug\DBClass.csproj.CopyComplete
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\obj\Debug\DBClass.dll
+C:\Users\Brovu\source\repos\Web-ThucHanh\DBClass\obj\Debug\DBClass.pdb
